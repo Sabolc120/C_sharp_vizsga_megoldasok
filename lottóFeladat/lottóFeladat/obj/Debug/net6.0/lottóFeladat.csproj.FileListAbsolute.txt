@@ -1,0 +1,15 @@
+C:\Users\Sabbbbbb\source\repos\lottóFeladat\lottóFeladat\bin\Debug\net6.0\lottóFeladat.exe
+C:\Users\Sabbbbbb\source\repos\lottóFeladat\lottóFeladat\bin\Debug\net6.0\lottóFeladat.deps.json
+C:\Users\Sabbbbbb\source\repos\lottóFeladat\lottóFeladat\bin\Debug\net6.0\lottóFeladat.runtimeconfig.json
+C:\Users\Sabbbbbb\source\repos\lottóFeladat\lottóFeladat\bin\Debug\net6.0\lottóFeladat.dll
+C:\Users\Sabbbbbb\source\repos\lottóFeladat\lottóFeladat\bin\Debug\net6.0\lottóFeladat.pdb
+C:\Users\Sabbbbbb\source\repos\lottóFeladat\lottóFeladat\obj\Debug\net6.0\lottóFeladat.csproj.AssemblyReference.cache
+C:\Users\Sabbbbbb\source\repos\lottóFeladat\lottóFeladat\obj\Debug\net6.0\lottóFeladat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sabbbbbb\source\repos\lottóFeladat\lottóFeladat\obj\Debug\net6.0\lottóFeladat.AssemblyInfoInputs.cache
+C:\Users\Sabbbbbb\source\repos\lottóFeladat\lottóFeladat\obj\Debug\net6.0\lottóFeladat.AssemblyInfo.cs
+C:\Users\Sabbbbbb\source\repos\lottóFeladat\lottóFeladat\obj\Debug\net6.0\lottóFeladat.csproj.CoreCompileInputs.cache
+C:\Users\Sabbbbbb\source\repos\lottóFeladat\lottóFeladat\obj\Debug\net6.0\lottóFeladat.dll
+C:\Users\Sabbbbbb\source\repos\lottóFeladat\lottóFeladat\obj\Debug\net6.0\refint\lottóFeladat.dll
+C:\Users\Sabbbbbb\source\repos\lottóFeladat\lottóFeladat\obj\Debug\net6.0\lottóFeladat.pdb
+C:\Users\Sabbbbbb\source\repos\lottóFeladat\lottóFeladat\obj\Debug\net6.0\lottóFeladat.genruntimeconfig.cache
+C:\Users\Sabbbbbb\source\repos\lottóFeladat\lottóFeladat\obj\Debug\net6.0\ref\lottóFeladat.dll
