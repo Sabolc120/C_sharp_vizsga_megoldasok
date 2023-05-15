@@ -150,8 +150,8 @@ namespace lottoFeladat
                 if (item.numOne == 73) numberOfSeventyThrees += 1;
                 if (item.numTwo == 73) numberOfSeventyThrees += 1;
                 if (item.numThree == 73) numberOfSeventyThrees += 1;
-                if (item.numFourth == 73) numberOfSeventyThrees += 1;
-                if (item.numFifth == 73) numberOfSeventyThrees += 1;
+                if (item.numFour == 73) numberOfSeventyThrees += 1;
+                if (item.numFive == 73) numberOfSeventyThrees += 1;
             }
             label5.Text = "5.Feladat, ennyi 73-as szám volt: " + numberOfSeventyThrees;
         }
